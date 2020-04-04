@@ -2,8 +2,8 @@
 >>Structed edge detection implemented by opencv.
 
 # 2. Results
-![image](https://github.com/lh9171338/Structured-Edge-Detection/edit/master/StructuredEdgeDetection/StructuredEdgeDetection/src.jpg)  
-![image](https://github.com/lh9171338/Structured-Edge-Detection/edit/master/StructuredEdgeDetection/StructuredEdgeDetection/dst.jpg)
+![image](https://github.com/lh9171338/Structured-Edge-Detection/tree/master/StructuredEdgeDetection/src.jpg)  
+![image](https://github.com/lh9171338/Structured-Edge-Detection/tree/master/StructuredEdgeDetection/dst.jpg)
 
 # 3. More Resources
 - [Github Link](https://github.com/lh9171338/Outline)
